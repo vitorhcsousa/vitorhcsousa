@@ -6,7 +6,7 @@ I'm Vitor Sousa, a Data Scientist Machine Learning Engineer.
 - <img height="30" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b8a6d84927d8597b08491112bdc6027e/valuekeep.png"> Data Scientist and Machine Learning Engineer 
 - <img height="20" src="https://img.icons8.com/ios/452/learning.png"> With a passion for learning
 - <img height="20" src="https://lh3.googleusercontent.com/proxy/tHz_P8DlGCilJDCoFB-sF8xoS6r6bE3L_XEliiDF_FqSaTb5gryPvrUDTl7fl-YLYz_AhzxjxsjugKlsRlqo1s9_"> Love Read 
-- <img height="20" src="http://simpleicon.com/wp-content/uploads/football-256x256.png">Football player
+- <img height="20" src="http://simpleicon.com/wp-content/uploads/football-256x256.png"> Football player
 
 ## Things I am passionate about
 
@@ -27,10 +27,11 @@ Other tools that I use:
 - <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/vitorhcsousa/)
 - <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTghi0H7gitTfXtM-FTY0AkMga34FgWoLFCg&usqp=CAU"> [Medium](medium.com/@vitorsousa5)
 
+---
+
 
 
 ![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=vitorsousa5&count_private=true&show_icons=true&theme=gotham)
-
 
 
 
