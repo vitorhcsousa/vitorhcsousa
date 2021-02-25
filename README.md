@@ -11,11 +11,11 @@ I'm Vitor Sousa, a Data Scientist Machine Learning Engineer.
 ## Things I am passionate about
 
 - 📈 Machine Learning
-- <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png">Data Science
+- <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png"> Data Science
 - 🤖 Deep Learning
 - 🧠 Neural Networks
 - <img height="20" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"> Keras
-- <img height="30" src="https://pics.freeicons.io/uploads/icons/png/9454990961554897564-512.png"> Stats
+- <img height="25" src="https://pics.freeicons.io/uploads/icons/png/9454990961554897564-512.png"> Stats
 
 Other tools that I use: 
 
