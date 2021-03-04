@@ -5,7 +5,7 @@ I'm Vitor Sousa, a Data Scientist Machine Learning Engineer.
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1200px-Minho_University.svg.png"> Master in Information Systems Engineering and Management by U. Minho
 - <img height="30" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b8a6d84927d8597b08491112bdc6027e/valuekeep.png"> Data Scientist and Machine Learning Engineer 
 - <img height="20" src="https://img.icons8.com/ios/452/learning.png"> With a passion for learning
-- <img height="20" src="https://lh3.googleusercontent.com/proxy/tHz_P8DlGCilJDCoFB-sF8xoS6r6bE3L_XEliiDF_FqSaTb5gryPvrUDTl7fl-YLYz_AhzxjxsjugKlsRlqo1s9_"> Love Read 
+- <img height="20" src="https://cdn0.iconfinder.com/data/icons/interior-and-decor-vol-1-1/512/15-256.png"> Love Read 
 - <img height="20" src="http://simpleicon.com/wp-content/uploads/football-256x256.png"> Football player
 
 ## Things I am passionate about
@@ -32,6 +32,3 @@ Other tools that I use:
 
 
 ![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=vitorsousa5&count_private=true&show_icons=true&theme=gotham)
-
-
-
