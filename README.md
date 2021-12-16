@@ -31,4 +31,4 @@ Other tools that I use:
 
 
 
-![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=vitorsousa5&count_private=true&show_icons=true&theme=gotham)
+![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=vitorhcsousa&count_private=true&show_icons=true&theme=gotham)
