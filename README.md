@@ -3,7 +3,7 @@
 I'm Vitor Sousa, a Data Scientist Machine Learning Engineer.
 
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1200px-Minho_University.svg.png"> Master in Information Systems Engineering and Management by U. Minho
-- <img height="15" src="https://disruptretail.sonae.pt/wp-content/uploads/2020/04/SonaeMC.png"> Data Scientist
+- Data Scientist @ Sonae MC
 - <img height="20" src="https://img.icons8.com/ios/452/learning.png"> With a passion for learning
 - <img height="20" src="https://cdn0.iconfinder.com/data/icons/interior-and-decor-vol-1-1/512/15-256.png"> Love Read 
 - <img height="20" src="http://simpleicon.com/wp-content/uploads/football-256x256.png"> Football player
