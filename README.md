@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vitor Sousa, a Data Scientist Machine Learning Engineer.
+I'm Vitor Sousa, a Data Scientist and Machine Learning Engineer.
 
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1200px-Minho_University.svg.png"> Master in Information Systems Engineering and Management by U. Minho
 - Data Scientist @ FARFETCH
