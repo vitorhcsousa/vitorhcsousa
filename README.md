@@ -1,34 +1,44 @@
-### Hi there 👋
+# Greetings! 👋
 
-I'm Vitor Sousa, a Data Scientist and Machine Learning Engineer.
+I'm Vitor Sousa, a dedicated Data Scientist and seasoned Machine Learning Engineer with a profound focus on advancing the field of Deep Learning. Let's delve into my professional journey:
 
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Minho_University.svg/1200px-Minho_University.svg.png"> Master in Information Systems Engineering and Management by U. Minho
-- Data Scientist @ FARFETCH
-- <img height="20" src="https://img.icons8.com/ios/452/learning.png"> With a passion for learning
-- <img height="20" src="https://cdn0.iconfinder.com/data/icons/interior-and-decor-vol-1-1/512/15-256.png"> Love Read 
-- <img height="20" src="http://simpleicon.com/wp-content/uploads/football-256x256.png"> Football player
+- 🎓 Master's in Information Systems Engineering and Management from U. Minho
+- 💼 Currently contributing as a Data Scientist at FARFETCH
+- 📚 Passionately dedicated to continuous learning and professional growth 🚀
+- 📖 Enthusiastic reader, particularly in the realms of Deep Learning literature 📚
+- ⚽ An avid football player and enthusiast ⚽
 
-## Things I am passionate about
+## Areas of Expertise
 
-- 📈 Machine Learning
-- <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png"> Data Science
-- 🤖 Deep Learning
-- 🧠 Neural Networks
-- <img height="20" src="https://media-exp1.licdn.com/dms/image/C560BAQG2-bElRVrSqw/company-logo_200_200/0/1547450366259?e=2159024400&v=beta&t=OpI315QOVOkFjDgZPAGF_Kw7N490Y6bkILBCrjliQUQ"> Keras
-- <img height="25" src="https://pics.freeicons.io/uploads/icons/png/9454990961554897564-512.png"> Stats
+My professional expertise revolves around key areas in Deep Learning:
 
-Other tools that I use: 
+- 📈 **Machine Learning**: Transforming data into actionable insights
+- 📊 **Data Science**: Uncovering hidden patterns and trends
+- 🤖 **Deep Learning**: Exploring innovative architectures and applications
+- 🧠 **Neural Networks**: Crafting intelligent systems
+- 🔥 **Torch**: Leveraging high-level neural networks API
+- 📊 **Statistics**: Extracting insights from data
 
-<img height="35" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"><img height="35" src="https://geosciences.uni-koeln.de/sites/geosciences/GSGS-Pictures/Reports_pictures/Rlogo.png"><img height="35" src="https://pytorch.org/assets/images/pytorch-logo.png"> <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"><img height="35" src="https://s3.amazonaws.com/cdn.33voices.com/presentations/567956383662300010000005/images/hero-07bb88075fb1a32bb828e64324b4ee20-medium.png"><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/hadoop-226007.png"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg"><img height="35" src="https://www.pngkey.com/png/full/139-1398300_r-shiny-logo.png">
+## Tools in My Toolbox
 
-## Get in touch
+My technical arsenal includes:
 
-- 🌐 [vitorsousa.dev](www.vitorsousa.dev)
-- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/vitorhcsousa/)
-- <img height="15" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTghi0H7gitTfXtM-FTY0AkMga34FgWoLFCg&usqp=CAU"> [Medium](medium.com/@vitorsousa5)
+
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/PyTorch%20-%23D02F00.svg?logo=PyTorch&logoColor=white"></a>
+<a href="#"><img alt="Keras" src="https://img.shields.io/badge/R%20-%23004E90.svg?logo=R&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+
+## Connect With Me
+
+- 🌐 [vitorsousa.dev](https://vitorhcsousa.github.io/)
+- 👔 [LinkedIn](https://www.linkedin.com/in/vitorhcsousa/)
+- ✍️ [Medium](medium.com/@vitorsousa5)
 
 ---
 
-
-
-![Arnaldo's github stats](https://github-readme-stats.vercel.app/api?username=vitorhcsousa&count_private=true&show_icons=true&theme=gotham)
+![Vitor Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorhcsousa&count_private=true&show_icons=true&theme=gotham)
