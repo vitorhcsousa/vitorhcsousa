@@ -68,7 +68,6 @@ My technical arsenal includes:
 
 📫 Interested in a chat? Feel free to reach out! 
 
-- 🌐 [vitorhcsousa.github.io](https://vitorhcsousa.github.io/)
+- 🌐 [vitorsousa.com](https://vitorsousa.com/)
 - 👔 [LinkedIn](https://www.linkedin.com/in/vitorhcsousa/)
-- ✍️ [Medium](medium.com/@vitorsousa5)
 
