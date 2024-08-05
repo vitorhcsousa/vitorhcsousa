@@ -16,7 +16,6 @@ My professional expertise revolves around key areas in Deep Learning:
 - 📊 **Data Science**: Uncovering hidden patterns and trends through analysis and visualization techniques, supported by mathematical frameworks like algebra, calculus, and statistical inference.
 - 📈 **Machine Learning**: Transforming data into actionable insights using algorithms, statistical models, and mathematical concepts such as algebra, calculus, and probability theory.
 - 📊 **Statistics**: Extracting insights from data using mathematical methods such as probability theory, algebra, and calculus, and applying them to real-world scenarios to make informed decisions and predictions.
-- 📚 **Language Models (LLMs)**: Developing natural language understanding and generation systems using advanced algorithms and linguistic principles, often incorporating statistical methods, algebraic structures, and deep learning techniques.
 
 ## Tools in My Toolbox
 
