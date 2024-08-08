@@ -19,8 +19,6 @@ My professional expertise revolves around key areas in Deep Learning:
 
 ## Tools in My Toolbox
 
-My technical arsenal includes:
-
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFF)
 ![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
@@ -47,10 +45,6 @@ My technical arsenal includes:
 ![docker](https://img.shields.io/badge/docker-ffffff?style=for-the-badge&logo=docker&logoColor=#ffffff)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![looker](https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-
-
----
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhcsousa&theme=dark)
 
 
 ---
