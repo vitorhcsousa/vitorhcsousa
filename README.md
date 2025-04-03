@@ -3,7 +3,7 @@
 Data Scientist and Machine Learning Engineer with a profound focus on advancing the field of Deep Learning. Let's delve into my professional journey:
 
 - 🎓 Master's in Information Systems Engineering and Management from U. Minho
-- 💼 Currently contributing as a Data Scientist at FARFETCH
+- 💼 Currently contributing as a Data Scientist, with focus on GenAI, at Wellhub
 - 📚 Passionately dedicated to continuous learning and professional growth 🚀
 - 📖 Enthusiastic reader, particularly in the realms of Deep Learning literature 📚
 - ⚽ An avid football player and enthusiast ⚽
